@@ -40,7 +40,7 @@ export default function Header() {
                 <SearchIcon className='hidden sm:inline h-6 w-6 text-white' />
                 <p className='hidden lg:inline text-white'>Kids</p>
                 <BellIcon className='hidden sm:inline h-6 w-6 text-white' />
-                <Link href='/account'>
+                <Link href='/login'>
                     <img
                         src="https://rb.gy/g1pwyx"
                         alt=""
